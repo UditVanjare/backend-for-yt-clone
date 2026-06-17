@@ -1,0 +1,16 @@
+{
+  "name": "backend-study",
+  "version": "1.0.0",
+  "description": "a backend for yt-clone app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Udit vanjare",
+  "license": "ISC"
+}
